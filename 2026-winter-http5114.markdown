@@ -6,7 +6,7 @@
 
 |                                                        | Name                  | Profile                                            |
 | ------------------------------------------------------ | --------------------- | -------------------------------------------------- |
-| ![Rinzin](images/realrinzin.jpg) | Rinzin | [rinzin](https://github.com/RealRinzin) |
+| ![Rinzin](images/realrinzin.jpg) | Rinzin | [rinzin](students/realrinzin) |
 
 ### Faculty
 
