@@ -6,13 +6,20 @@
 
 |                                                        | Name                  | Profile                                            |
 | ------------------------------------------------------ | --------------------- | -------------------------------------------------- |
-| ![Rinzin](images/realrinzin.jpg) | Rinzin | [rinzin](students/realrinzin) |
+| ![Jursida Hima](./images/Jursida%20Hima.jpg)           | Jursida Hima          | [Jursida ](/students/jursidahima.markdown)         |
+| ![Taranpreet Kaur](images/taran487.png).               | Taranpreet Kaur       | [codeadamca](students/codeadamca)                  |
+| ![Spencer Dowie](images/spencerdowie.jpg)              | Spencer Dowie         | [spencerdowie](students/spencerdowie)              |
+| ![Joseph Bonachea](images/joeybonachea.jpg)            | Joseph Bonachea       | [joeybonachea](students/joey-bonachea.md)          |
+| ![Rinzin](images/realrinzin.jpg)                       | Rinzin                | [rinzin](students/realrinzin)                      |
+| ![Voranzov](images/voranzovv.png)                      | Voranzov.             | [voranzovv](students/voranzovv)                    |
+| ![Megha Kamalan](images/meghakamalan.jpg)              | Megha Kamalan         |                                                    |
 
 ### Faculty
 
-|                                       | Name        | Profile                          |
-| ------------------------------------- | ----------- | -------------------------------- |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+|                                                   | Name               | Profile                           |
+| ------------------------------------------------- | ------------------ | --------------------------------  |
+| ![Adam Thomas](images/codeadamca.png)             | Adam Thomas        | [codeadamca](faculty/codeadamca)  |
+| ![KantimaPinthong](images/emmey-kantima.jpg)      | Kantima Pinthong   | [codeadamca](students/codeadamca) |
 
 
 [&#10132; Back to Class List](/)
